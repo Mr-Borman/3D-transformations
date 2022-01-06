@@ -1,0 +1,10 @@
+C:\Users\Данил\source\repos\Лб5\Лб5\bin\Debug\Лб5.exe.config
+C:\Users\Данил\source\repos\Лб5\Лб5\bin\Debug\Лб5.exe
+C:\Users\Данил\source\repos\Лб5\Лб5\bin\Debug\Лб5.pdb
+C:\Users\Данил\source\repos\Лб5\Лб5\obj\Debug\Лб5.csproj.AssemblyReference.cache
+C:\Users\Данил\source\repos\Лб5\Лб5\obj\Debug\Лб5.Form1.resources
+C:\Users\Данил\source\repos\Лб5\Лб5\obj\Debug\Лб5.Properties.Resources.resources
+C:\Users\Данил\source\repos\Лб5\Лб5\obj\Debug\Лб5.csproj.GenerateResource.cache
+C:\Users\Данил\source\repos\Лб5\Лб5\obj\Debug\Лб5.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\Лб5\Лб5\obj\Debug\Лб5.exe
+C:\Users\Данил\source\repos\Лб5\Лб5\obj\Debug\Лб5.pdb
